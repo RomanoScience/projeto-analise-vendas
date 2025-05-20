@@ -20,4 +20,4 @@ Este projeto tem como objetivo analisar dados de vendas utilizando Python e gera
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   https://github.com/RomanoScience/projeto-analise-vendas/edit/main/README.md
