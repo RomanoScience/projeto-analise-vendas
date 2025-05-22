@@ -1,23 +1,26 @@
 
-# Projeto de Análise de Vendas
+📊 Projeto de Análise de Vendas
+Este projeto tem como objetivo explorar graficamente um conjunto de dados de vendas, utilizando visualizações para facilitar a interpretação de padrões, variações e comportamentos dos preços e produtos. Com o uso de bibliotecas como Matplotlib e Seaborn, foram criados gráficos que destacam tendências, identificam valores fora do comum e permitem uma compreensão visual clara dos dados analisados.
+📈 Etapas da Análise
+Carregamento do dataset
+Leitura do arquivo de vendas e visualização inicial.
 
-Este projeto tem como objetivo analisar dados de vendas utilizando Python e gerar visualizações úteis para interpretação dos dados.
+Limpeza e Preparação dos Dados
 
-## 📁 Estrutura do Projeto
+Distribuições de preços, produtos e vendas.
 
-- `analise_vendas.ipynb`: Notebook com a análise e visualizações.
-- `README.md`: Documento de descrição do projeto.
-- `vendas.csv`: Arquivo com os dados analisados.
+Visualização Gráfica
 
-## 🛠 Tecnologias Utilizadas
+Gráficos de barras e séries temporais para análise de volume de vendas.
 
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+📷 Exemplo de Gráfico Gerado
 
-## ▶️ Como Executar
 
-1. Clone o repositório:
-   ```bash
-   https://github.com/RomanoScience/projeto-analise-vendas
+👨‍🎓 Sobre o Autor
+Sou formado recentemente em Engenharia Elétrica pela UNESP e estou buscando uma oportunidade na área de Dados.
+Tenho me dedicado a projetos práticos com foco em análise exploratória, estatística e principalmente em Python.
+
+📬 Contato
+LinkedIn
+
+GitHub
