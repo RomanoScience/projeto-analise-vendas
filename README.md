@@ -16,7 +16,7 @@ Visualização Gráfica
 Gráficos de barras e séries temporais para análise de volume de vendas.
 
 📷 Exemplo de Gráfico Gerado
-
+https://github.com/RomanoScience/projeto-analise-vendas/blob/main/image.png
 
 👨‍🎓 Sobre o Autor
 Sou formado recentemente em Engenharia Elétrica pela UNESP e estou buscando uma oportunidade na área de Dados.
