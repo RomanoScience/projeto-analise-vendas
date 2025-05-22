@@ -1,6 +1,8 @@
 
 📊 Projeto de Análise de Vendas
 Este projeto tem como objetivo explorar graficamente um conjunto de dados de vendas, utilizando visualizações para facilitar a interpretação de padrões, variações e comportamentos dos preços e produtos. Com o uso de bibliotecas como Matplotlib e Seaborn, foram criados gráficos que destacam tendências, identificam valores fora do comum e permitem uma compreensão visual clara dos dados analisados.
+
+
 📈 Etapas da Análise
 Carregamento do dataset
 Leitura do arquivo de vendas e visualização inicial.
@@ -21,6 +23,5 @@ Sou formado recentemente em Engenharia Elétrica pela UNESP e estou buscando uma
 Tenho me dedicado a projetos práticos com foco em análise exploratória, estatística e principalmente em Python.
 
 📬 Contato
-LinkedIn
+ https://www.linkedin.com/in/ronaldoromanojr/ • https://github.com/RomanoScience
 
-GitHub
